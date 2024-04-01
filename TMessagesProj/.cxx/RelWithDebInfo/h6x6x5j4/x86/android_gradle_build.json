@@ -1,0 +1,213 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\projects\\telegram\\Telegram\\TMessagesProj\\jni\\CMakeLists.txt",
+    "C:\\projects\\telegram\\Telegram\\TMessagesProj\\jni\\voip\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "webp-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "webp"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "webp",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libwebp.a"
+    },
+    "tgcalls_tp-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "tgcalls_tp"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "tgcalls_tp",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libtgcalls_tp.a"
+    },
+    "flac-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "flac"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "flac",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libflac.a"
+    },
+    "sqlite-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "sqlite"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "sqlite",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libsqlite.a"
+    },
+    "rlottie-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "rlottie"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "rlottie",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\librlottie.a"
+    },
+    "breakpad-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "breakpad"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "breakpad",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libbreakpad.a"
+    },
+    "openh264-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "openh264"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "openh264",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libopenh264.a"
+    },
+    "cpufeatures-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "cpufeatures"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "cpufeatures",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libcpufeatures.a"
+    },
+    "mozjpeg-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "mozjpeg"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "mozjpeg",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libmozjpeg.a"
+    },
+    "rnnoise-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "rnnoise"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "rnnoise",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\librnnoise.a"
+    },
+    "tgcalls-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "tgcalls"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "tgcalls",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libtgcalls.a"
+    },
+    "tmessages.48-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "tmessages.48"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "tmessages.48",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\build\\intermediates\\cxx\\RelWithDebInfo\\h6x6x5j4\\obj\\x86\\libtmessages.48.so",
+      "runtimeFiles": []
+    },
+    "tgnet-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "tgnet"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "tgnet",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libtgnet.a"
+    },
+    "tgvoip-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "tgvoip"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "tgvoip",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libtgvoip.a"
+    },
+    "voipandroid-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hexvel\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86",
+        "voipandroid"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "voipandroid",
+      "output": "C:\\projects\\telegram\\Telegram\\TMessagesProj\\.cxx\\RelWithDebInfo\\h6x6x5j4\\x86\\libvoipandroid.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c",
+    "S"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

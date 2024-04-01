@@ -1,0 +1,17 @@
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/webp.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/flac.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/mozjpeg.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/tgnet.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/rlottie.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/breakpad.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/sqlite.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/tgvoip.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/openh264.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/tgcalls.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/rnnoise.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/tgcalls_tp.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/voipandroid.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/tmessages.48.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/cpufeatures.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/edit_cache.dir
+C:/projects/telegram/Telegram/TMessagesProj/.cxx/RelWithDebInfo/h6x6x5j4/x86/CMakeFiles/rebuild_cache.dir
